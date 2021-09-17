@@ -46,7 +46,7 @@
 * Arrays
 
 ```
-Remove, Search, Range Search, insert position, Rotate, Search in rotated, Max subarray, Set Matrix, Pascal’s Triangle, 2 Sum, 3 Sum, Single number, Intersection, Majority, Duplicates, Missing, Consecutive sequence, valid sudoku, plus one
+Remove, Search, Range Search, Insert position, Rotate, Search in rotated, Max subarray, Set Matrix, Pascal’s Triangle, 2 Sum, 3 Sum, Single number, Intersection, Majority, Duplicates, Missing, Consecutive sequence, valid sudoku, plus one
 ```
 
 

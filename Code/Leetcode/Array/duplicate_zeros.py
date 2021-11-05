@@ -28,7 +28,8 @@ from typing import List
 
 # O(N2) 🐌 🐌 🐌 🐌 🐌 🐌 🐌 🐌 🐌 🐌 🐌 🐌
 
-# O(N) 🐆 🐆 🐆 🐆 🐆 🐆 🐆 🐆 🐆 🐆 🐆 🐆 🐆
+# O(N) Time
+# O(N) Space 🐆 🐆 🐆 🐆 🐆 🐆 🐆 🐆 🐆 🐆 🐆 🐆 🐆
 # Although this problem wants to modify the original list, that doesn't mean we can't create another list and return the original. Use list comprehension to create a dynamic list of 0's. Then loop through the array and if the number from the original list is not 0, then assign that value to the new list. Else if the number in the original array is zero, skip an increment. Then assign the values of the new list to overwrite the original list.
 # Two pointers are needed to increment. One is for the original list, the other is for the new list.
 
